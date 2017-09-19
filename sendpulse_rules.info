@@ -1,0 +1,5 @@
+name = SendPulse Rules
+description = Rules integration for SendPulse module.
+core = 7.x
+
+dependencies[] = sendpulse
